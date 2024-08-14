@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.Todos-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 30px;
+}
+
+.sub-container {
+  background-color: #ffffff;
+  padding: 20px;
+}
+.heading {
+  color: #ff8542;
+  font-size: 45px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.todo-list {
+  padding-left: 0px;
+}
